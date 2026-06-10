@@ -445,13 +445,7 @@ Pengembangan berikutnya dapat menguji:
 
 ---
 
-## 12. Deklarasi Penggunaan AI
-
-Dalam proses pengerjaan tugas kelompok ini, AI generatif digunakan sebagai alat bantu untuk memahami dokumentasi teknis, melakukan brainstorming desain eksperimen, menyusun panduan eksekusi Google Colaboratory, membantu debugging kode, serta merapikan struktur draf laporan. Seluruh eksperimen dijalankan secara langsung oleh kelompok pada Google Colaboratory. Verifikasi data, interpretasi hasil, revisi isi laporan, dan tanggung jawab akhir atas laporan tetap dilakukan oleh seluruh anggota kelompok.
-
-
-
-## 14. Tautan Tambahan
+## 12. Tautan Tambahan
 
 | Keterangan | Tautan |
 |---|---|
