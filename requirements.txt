@@ -1,0 +1,12 @@
+torch
+transformers==4.40.0
+scikit-learn
+gensim
+openpyxl
+pandas
+numpy
+tqdm
+imbalanced-learn
+spacy
+nltk
+statsmodels
