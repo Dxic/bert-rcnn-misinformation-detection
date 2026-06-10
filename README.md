@@ -15,7 +15,7 @@
 
 | No. | Nama | NPM |
 |---:|---|---|
-| 1 | Dicky Nugraha Febriano | 2410010146 |
+| 1 | **Dicky Nugraha Febriano** | 2410010146 |
 | 2 | **Marchella Diva Gantari** | **2410010642** |
 | 3 | **Nor Indah Sari** | **2410010427** |
 | 4 | **Rasyid** | **2410010032** |
