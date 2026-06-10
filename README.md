@@ -241,6 +241,31 @@ G-Mean   : 82,98%
 
 ## 8. Cara Menjalankan Project
 
+## Dataset Eksperimen
+
+Dataset mentah berasal dari FakeNewsCorpus:
+
+https://github.com/several27/FakeNewsCorpus/releases/tag/v1.0
+
+Untuk memudahkan reproduksi eksperimen, subset dataset yang sudah diproses tersedia pada Google Drive:
+
+[Download dataset eksperimen](https://drive.google.com/drive/folders/1CpIXxqQMgjPsIL1OtLKBwX-Aw2VLDz0M?usp=sharing)
+
+Isi folder:
+
+| File | Keterangan | Ukuran |
+|---|---|---:|
+| `fnc_balanced_100k.csv` | Dataset balanced untuk eksperimen A, B1, dan B2 | ±336,8 MB |
+| `fnc_imbalanced_controlled.csv` | Dataset controlled imbalanced untuk eksperimen C1 dan C2 | ±157,5 MB |
+
+Letakkan file pada struktur berikut di Google Drive:
+
+```text
+MyDrive/
+└── CS_RI_2026/
+    └── data/
+        ├── fnc_balanced_100k.csv
+        └── fnc_imbalanced_controlled.csv
 ### 8.1 Persiapan Dataset
 
 Letakkan file berikut pada Google Drive:
